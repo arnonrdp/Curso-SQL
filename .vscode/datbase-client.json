@@ -1,0 +1,50 @@
+{
+    "database.connections": {
+        "1652439182930": {
+            "key": "1652439182930",
+            "host": "127.0.0.1",
+            "port": "3306",
+            "user": "root",
+            "password": "",
+            "timezone": "+00:00",
+            "useSSL": false,
+            "isCluster": false,
+            "clientCertPath": null,
+            "clientKeyPath": null,
+            "ssh": {
+                "host": "",
+                "privateKeyPath": "",
+                "port": 22,
+                "username": "root",
+                "type": "password",
+                "connectTimeout": 10000,
+                "algorithms": {
+                    "cipher": []
+                }
+            },
+            "usingSSH": false,
+            "protocol": null,
+            "esAuth": "none",
+            "encoding": "utf8",
+            "showHidden": true,
+            "connectionKey": "database.connections",
+            "hideSystemSchema": true,
+            "readonly": false,
+            "savePassword": "Forever",
+            "sort": 10,
+            "group": null,
+            "global": false,
+            "dbType": "SQLite",
+            "connectionUrl": "",
+            "encrypt": true,
+            "dbPath": "/Users/arnon/Public/Curso SQL/Database.db",
+            "authType": "default",
+            "disable": false,
+            "includeDatabases": null,
+            "database": null,
+            "name": "SQLite",
+            "tooltip": "Host: 127.0.0.1, Port: 3306",
+            "index": 1
+        }
+    }
+}
