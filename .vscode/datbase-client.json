@@ -37,7 +37,7 @@
             "dbType": "SQLite",
             "connectionUrl": "",
             "encrypt": true,
-            "dbPath": "/Users/arnon/Public/Curso SQL/Database.db",
+            "dbPath": "/Users/arnon/Public/Curso SQL/HR.db",
             "authType": "default",
             "disable": false,
             "includeDatabases": null,
