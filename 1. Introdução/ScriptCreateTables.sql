@@ -41,7 +41,7 @@ CREATE TABLE employees (
     last_name text NOT NULL,
     email text NOT NULL,
     phone_number text,
-    hire_date text NOT NULL,
+    hire_date date NOT NULL,
     job_id INTEGER NOT NULL,
     salary double NOT NULL,
     manager_id INTEGER,
