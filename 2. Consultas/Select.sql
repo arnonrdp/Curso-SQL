@@ -2,10 +2,7 @@
 
 # 1) Seleção de dados de todas as colunas
 -- O exemplo a seguir obtém dados de todas as linhas e colunas da tabela de funcionários.
-SELECT
-    *
-FROM
-    employees;
+SELECT * FROM employees;
 
 # 2) Selecionando dados de colunas específicas:
 -- O exemplo a seguir obtém dados de todas as linhas de colunas específicas da tabela de funcionários.
